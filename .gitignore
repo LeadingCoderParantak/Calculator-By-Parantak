@@ -4,7 +4,7 @@ body{
     padding:0;
     line-height: 0.5;
     background:linear-gradient(to left,#7808f0,#06bdf5);
-    font-family: sans-serif;
+    font-family: courier new;
 }
 
 .calci{
@@ -23,7 +23,7 @@ body{
 height: 55;
 width: 116;
 font-size: 20;
-    font-family: sans-serif;
+    font-family: courier new;
     font-weight: 300;
 
 }
@@ -65,7 +65,7 @@ font-size: 20;
 h1{
     margin-top: 300px;
     margin-left: 100px;
-    font-family: sans-serif;
+    font-family: courier new;
 
     font-size:50;
    
@@ -79,7 +79,7 @@ h2{
 
     color: white;
     margin-top: -1px;
-    font-family: sans-serif;
+    font-family: courier new;
     margin-left: 438px;
 }
 .operator{
